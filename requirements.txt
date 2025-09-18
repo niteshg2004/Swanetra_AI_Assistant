@@ -1,0 +1,9 @@
+pyttsx3
+speechrecognition
+opencv-python
+torch
+transformers
+ultralytics
+Pillow
+requests
+pyaudio
